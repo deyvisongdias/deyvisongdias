@@ -1,7 +1,8 @@
-### Hi there , welcome in my profile , I'am Deyvison Gregorio Dias student of Science of computer !
+# Hey
 
-- 🔭 I’m currently working on computer support .
-- 🌱 I’m currently learning ReactJS,Python and C#.
+###  welcome in my profile , I'am Deyvison Gregorio Dias student of Science of computer , currenty work with computer support and search vacancy of stage of developement.
+
+-  I’m currently learning ReactJS,Python and C#.
 
 <!--
 **deyvisongdias/deyvisongdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
