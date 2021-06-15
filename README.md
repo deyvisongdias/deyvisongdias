@@ -5,8 +5,8 @@
 
 About me
 
- 🧑‍💻 I’m currently learning ReactJS , Python , Java and C#.
- 🧑‍💻 I'm work with computer support since 2017 and mounting since 2018.
+- 🧑‍💻 I’m currently learning ReactJS , Python , Java and C#.
+- 🧑‍💻 I'm work with computer support since 2017 and mounting since 2018.
 <!--
 **deyvisongdias/deyvisongdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
