@@ -1,7 +1,7 @@
 
 # Hey👋
 
-###  Welcome in my profile , I'am Deyvison Gregorio Dias student of Science of computer in UFJF,  currenty work with computer support and search vacancy of stage of developement.
+###  Welcome in my profile , I'am Deyvison Gregorio Dias student of Science of computer in UFJF,  currenty work with computer support and search vacancy of phase of developement.
 
 About me
 
