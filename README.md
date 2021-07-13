@@ -1,7 +1,7 @@
 
 # Hey👋
 
-###  Welcome in my profile , My name is Deyvison  student of Science of computer in UFJF , currenty study developement and search vacancy of phase of junior developement .
+###  Welcome in my profile , My name is Deyvison  student of Science of computer in UFJF , currenty study developement and search vacancy of phase of junior developement.
 
 About me
 
