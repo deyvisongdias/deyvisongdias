@@ -1,12 +1,22 @@
 
 # Hey👋
 
-###  Welcome in my profile , My name is Deyvison  student of Science of computer in UFJF , currenty study developement and search vacancy of phase of junior developement.
+###  Welcome in my profile , My name is Deyvison  student of Science of computer .
 
 About me
 
 - 🧑‍💻 I’m currently learning ReactJS , Spring Framework , Python and Django Framework.
 - 🧑‍💻 I'm work with computer support since 2017 and mounting since 2018.
+- 💬 Contact mail - deyvisondias@hotmail.com
+
+<div>
+  <a href="https://github.com/deyvisongdias" > 
+  <img height="180em" src"https://github-readme-stats.vercel.app/api?username=deyvisongdias&show_icons=true&theme=midnight-purple">
+ 
+
+</div>
+
+
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)-->
 
