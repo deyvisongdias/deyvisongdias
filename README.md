@@ -11,8 +11,8 @@ About me
 
 <div>
   <a href="https://github.com/deyvisongdias" > 
-  <img height="180em" src"https://github-readme-stats.vercel.app/api?username=deyvisongdias&show_icons=true&theme=midnight-purple">
- 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deyvisongdias&show_icons=true&theme=midnight-purple">
+
 
 </div>
 
