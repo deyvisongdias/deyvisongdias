@@ -15,22 +15,9 @@ About me
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyvisongdias&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 
+  <div>
+    <a href="https://www.linkedin.com/in/deyvison-gregorio-435301207/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>
+     <a href="https://www.instagram.com/deyvison_dias_/?hl=pt-br"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blanck"></a>
+      <a href="https://www.twitch.tv/doczik4"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blanck"></a>
+  </div>
 
-
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)-->
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
-
-
-<!--
-**deyvisongdias/deyvisongdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ReactJS,Python and C#.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
