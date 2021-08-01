@@ -1,7 +1,7 @@
 
 # Hey👋
 
-###  Welcome in my profile , My name is Deyvison  student of Science of computer .
+###  Welcome in my profile.
 
 About me
 
