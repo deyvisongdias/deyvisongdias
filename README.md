@@ -3,6 +3,7 @@
 
 About me
 
+
 - 🧑‍💻 I’m student of science of computer at UFJF.
 - 🧑‍💻 I’m currently learning ReactJS , Spring Framework , Python and Django Framework.
 - 🧑‍💻 I'm work with computer support since 2017 and mounting since 2018.
@@ -19,4 +20,3 @@ About me
      <a href="https://www.instagram.com/deyvison_dias_/?hl=pt-br"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blanck"></a>
       <a href="https://www.twitch.tv/doczik4"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blanck"></a>
   </div>
-
