@@ -3,11 +3,12 @@
 
 About me
 
-
-- 🧑‍💻 I’m student of science of computer at https://www2.ufjf.br/ufjf/.
+<div>
+- 🧑‍💻 I’m student of science of computer at <a href="https://www2.ufjf.br/ufjf/"> <img src" https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.grancursosonline.com.br%2Fconcurso%2Fufjf-universidade-federal-de-juiz-de-fora&psig=AOvVaw0wLNWuNSHry8FV4Oms3cx_&ust=1628205281520000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKj_jYu_mPICFQAAAAAdAAAAABAD"></a>
 - 🧑‍💻 I’m currently learning ReactJS , Spring Framework , Python and Django Framework.
 - 🧑‍💻 I'm work with computer support since 2017 and mounting since 2018.
 - 🧑💻💬 Contact mail - deyvisondias@hotmail.com
+</div>
 <br>
 <div>
   <a href="https://github.com/deyvisongdias" > 
