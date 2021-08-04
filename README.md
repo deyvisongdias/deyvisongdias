@@ -4,7 +4,7 @@
 About me
 
 
-- 🧑‍💻 I’m student of science of computer at UFJF.
+- 🧑‍💻 I’m student of science of computer at https://www2.ufjf.br/ufjf/.
 - 🧑‍💻 I’m currently learning ReactJS , Spring Framework , Python and Django Framework.
 - 🧑‍💻 I'm work with computer support since 2017 and mounting since 2018.
 - 🧑💻💬 Contact mail - deyvisondias@hotmail.com
