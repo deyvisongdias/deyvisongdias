@@ -10,6 +10,7 @@ About me
   -🧔🏽💻💬 Contact mail - <a href="deyvisondias@hotmail.com">deyvisondias@hotmail.com</a>.<br>
 </div>
 <br>
+<hr>
 <div>
   <a href="https://github.com/deyvisongdias" > 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deyvisongdias&show_icons=true&theme=midnight-purple"/>
