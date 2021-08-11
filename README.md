@@ -3,7 +3,7 @@
 
 About me
 
-<div >
+<div style=" font-family: "Lucida Handwriting", Times, serif;">
 -🧔🏽💻 I’m student of science of computer at <a href ="https://www2.ufjf.br/ufjf/"> UFJF</a>.<br>
 -🧔🏽💻 I’m currently learning ReactJS , Spring Framework , Python and Django Framework.<br>
 -🧔🏽💻 I'm work with computer support since 2017 and mounting since 2018.<br>
