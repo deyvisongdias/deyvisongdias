@@ -8,7 +8,7 @@ About me
 -🧔🏽💻 I’m student of science of computer at <a href ="https://www2.ufjf.br/ufjf/"> UFJF</a>.<br>
 -🧔🏽💻 I’m currently learning ReactJS , Spring Framework , Python and Django Framework.<br>
 -🧔🏽💻 I'm work with computer support since 2017 and mounting since 2018.<br>
--🧔🏽💻 I currently work with network architecture at T-Systems Brasil.<br>
+-👨🏽‍💻💻 I currently work with network architecture at T-Systems Brasil.<br>
 -👨🏽‍💻💻💬 Contact mail - <a href="deyvisondias@hotmail.com">deyvisondias@hotmail.com</a>.<br>
 </div>
 <br>
