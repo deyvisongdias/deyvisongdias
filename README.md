@@ -9,6 +9,7 @@ About me
 -🧔🏽💻 I’m currently learning ReactJS , Spring Framework , Python and Django Framework.<br>
 -🧔🏽💻 I'm work with computer support since 2017 and mounting since 2018.<br>
 -👨🏽‍💻💻 I currently work with network architecture at T-Systems Brasil.<br>
+  <br>
 -👨🏽‍💻💻💬 Contact mail - <a href="deyvisondias@hotmail.com">deyvisondias@hotmail.com</a>.<br>
 </div>
 <br>
