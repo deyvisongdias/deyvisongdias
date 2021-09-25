@@ -20,6 +20,7 @@ About me
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyvisongdias&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 <br>
+  <hr>
   <div>
     <a href="https://www.linkedin.com/in/deyvison-gregorio-435301207/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>
      <a href="https://www.instagram.com/deyvison_dias_/?hl=pt-br"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blanck"></a>
