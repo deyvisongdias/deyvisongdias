@@ -6,7 +6,7 @@ About me
 
 <div >
 -🧔🏽💻 I’m student of science of computer at <a href ="https://www2.ufjf.br/ufjf/"> UFJF</a>.<br>
--🧔🏽💻 I’m currently learning ReactJS , Spring Framework .<br>
+-🧔🏽💻 I’m currently learning ReactJS , Spring Framework.<br>
 -🧔🏽💻 I'm work with computer support since 2017 and mounting since 2018.<br>
 -👨🏽‍💻💻 I currently work with network architecture and Developement at T-Systems Brasil.<br>
   <br>
