@@ -7,7 +7,8 @@
  <img height="250em" width="700em" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.senacrs.com.br%2Ffotos%2Fcursos%2F33%2FiStock-629285904.jpg%3F7761&imgrefurl=https%3A%2F%2Fwww.senacrs.com.br%2FcursosDetalhe.asp%3FidCurso%3D61320%26nivelcurso%3Dlivres&tbnid=Zck1gEp-bth17M&vet=12ahUKEwi7rMGJhqP3AhVClJUCHVtoArIQMygvegUIARCdAg..i&docid=WJv-HOzLas0hgM&w=950&h=701&q=imagens%20programa%C3%A7%C3%A3o&ved=2ahUKEwi7rMGJhqP3AhVClJUCHVtoArIQMygvegUIARCdAg"/> 
  </div>
 About me
-<br> 
+<br>
+<br>
 <div >
 -🧔🏽💻 I’m student of science of computer at <a href ="https://www2.ufjf.br/ufjf/"> UFJF</a>.<br>
 -🧔🏽💻 I’m student of analysis and systems developement at<a href ="https://estacio.br/"> Estacio</a>.<br>
