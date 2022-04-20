@@ -2,10 +2,10 @@
 # Hey I am Deyvison🤙 Welcome in my profile
 <hr>
 
-
 <div>
- <img height="250em" width="700em" src="/foto/that.jpg" style="max-width: 100%;"> 
+ <img  src="/foto/that.jpg" style="max-width: 100%;"> 
  </div>
+ 
 <br>
 About me
 <br>
