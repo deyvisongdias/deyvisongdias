@@ -4,7 +4,6 @@
 
 About me
 <br>
-<br>
 <div >
 -🧔🏽💻 I’m student of science of computer at <a href ="https://www2.ufjf.br/ufjf/"> UFJF</a>.<br>
 -🧔🏽💻 I’m student of analysis and systems developement at<a href ="https://estacio.br/"> Estacio</a>.<br>
