@@ -4,7 +4,7 @@
 
 About me
 <div>
- <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ftm.ibxk.com.br%2F2021%2F08%2F10%2F10181814794027.jpg%3Fims%3D1120x420&imgrefurl=https%3A%2F%2Fwww.tecmundo.com.br%2Fmercado%2F222806-5-linguagens-programacao-usadas-2021.htm&tbnid=fxHkkxdd8OB9PM&vet=12ahUKEwi7rMGJhqP3AhVClJUCHVtoArIQMygCegUIARC9AQ..i&docid=-Kc6Q_mUXotk-M&w=1120&h=420&q=imagens%20programa%C3%A7%C3%A3o&ved=2ahUKEwi7rMGJhqP3AhVClJUCHVtoArIQMygCegUIARC9AQ" alt="header" style="max-width: 100%;"/> 
+ <img height="500em" width="250em" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ftm.ibxk.com.br%2F2021%2F08%2F10%2F10181814794027.jpg%3Fims%3D1120x420&imgrefurl=https%3A%2F%2Fwww.tecmundo.com.br%2Fmercado%2F222806-5-linguagens-programacao-usadas-2021.htm&tbnid=fxHkkxdd8OB9PM&vet=12ahUKEwi7rMGJhqP3AhVClJUCHVtoArIQMygCegUIARC9AQ..i&docid=-Kc6Q_mUXotk-M&w=1120&h=420&q=imagens%20programa%C3%A7%C3%A3o&ved=2ahUKEwi7rMGJhqP3AhVClJUCHVtoArIQMygCegUIARC9AQ"/> 
  </div>
 <div >
 -🧔🏽💻 I’m student of science of computer at <a href ="https://www2.ufjf.br/ufjf/"> UFJF</a>.<br>
