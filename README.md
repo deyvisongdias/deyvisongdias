@@ -2,11 +2,6 @@
 # Hey I am Deyvison🤙 Welcome in my profile
 <hr>
 
-<div>
- <img  src="/foto/that.jpg" style="max-width: 100%;"> 
- </div>
- 
-<br>
 About me
 <br>
 <br>
