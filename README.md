@@ -16,7 +16,7 @@ About me
 <br>
 <hr>
 <div>
-  <a href="https://github.com/deyvisongdias" > 
+  <a href="https://github.com/deyvisongdias"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deyvisongdias&show_icons=true&theme=midnight-purple"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyvisongdias&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
