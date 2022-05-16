@@ -13,7 +13,7 @@ About me
   <br>
 -👨🏽‍💻💻💬 Contact mail - <a href="deyvisondias@hotmail.com">deyvisondias@hotmail.com</a>.<br>
 </div>
-<br>
+
 <hr>
 <div>
   <a href="https://github.com/deyvisongdias"> 
