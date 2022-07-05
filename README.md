@@ -5,7 +5,7 @@
 About me
 <br>
 <div >
--🧔🏽💻 I’m student of science of computer at <a href ="https://www2.ufjf.br/ufjf/"> UFJF</a>.<br>
+-🧔🏽💻 I’m student of computer science at <a href ="https://www2.ufjf.br/ufjf/"> UFJF</a>.<br>
 -🧔🏽💻 I’m student of analysis and systems developement at<a href ="https://estacio.br/"> Estacio</a>.<br>
 -🧔🏽💻 I’m currently learning Javascript, Java and Spring Framework.<br>
 -🧔🏽💻 I'm work with computer support since 2017 and mounting since 2018.<br>
