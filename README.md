@@ -4,7 +4,7 @@
 
 About me
 <br>
-<div >
+<div>
 -🧔🏽💻 I’m student of computer science at <a href ="https://www2.ufjf.br/ufjf/"> UFJF</a>.<br>
 -🧔🏽💻 I’m student of analysis and systems developement at<a href ="https://estacio.br/"> Estacio</a>.<br>
 -🧔🏽💻 I’m currently learning React, Spring Framework and Asp.net.<br>
