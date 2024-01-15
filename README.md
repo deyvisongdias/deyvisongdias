@@ -7,7 +7,7 @@ About me
 <div>
 -🧔🏽💻 I’m student of computer science at <a href ="https://www2.ufjf.br/ufjf/"> UFJF</a>.<br>
 -🧔🏽💻 I’m student of analysis and systems developement at<a href ="https://estacio.br/"> Estacio</a>.<br>
--🧔🏽💻 I’m currently learning Spring Framework.<br>
+-🧔🏽💻 I’m currently learning Asp.net.<br>
 -🧔🏽💻 I'm work with computer support since 2017 and mounting since 2018.<br>
 -👨🏽‍💻💻 I currently work with storage systems with SAN, NAS and Network with tecnologies as Cisco, Dell EMC, Hewlett Packard, IBM, Brocade, Cisco, Fortigate, VMware and others at <a href="https://www.t-systems.com/br/pt?wt_ga=98021530943_426451130085&wt_kw=e_98021530943_t-systems&wt_mc=98021530943.426451130085.e.t-systems/"> T-Systems Brasil</a>.<br>
   <br>
